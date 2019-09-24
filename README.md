@@ -20,11 +20,11 @@
 
 ## Descriptions
 
+For more details, please read the book *Operating System Concepts (10th edition)*, the projects above are all from this book.
+
 Each project is included in a folder indicating its index. In each project folder, I uploaded relating *.c files
-and a report about coding details and my initial thoughts about these projects. 
+and a report about coding details and my initial thoughts about these projects (except for project 1 since project 1 is quite easy with the instructions in the textbook). 
 There may also be some instructions about the way to compile these *.c files in the reports (tools like gcc).
 
 According to the deadline in my semester, I may not be able to write these codes very clearly and readably, 
 but some comments in the codes may be useful. If you have any question, welcome to contact with me.
-
-For more details, please read the book *Operating System Concepts (10th edition)*, the projects above are all from this book.
