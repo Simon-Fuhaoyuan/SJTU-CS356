@@ -1,5 +1,4 @@
 # SJTU-CS356
-Course design for CS256 in SJTU, including 8 projects.
 
 Project1: Introduction to Linux kernel modules
 
